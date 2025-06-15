@@ -19,9 +19,13 @@ Tenho comprometimento com boas práticas de desenvolvimento, versionamento, cód
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Projeto em Destaque Front-End ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 - [**Site de homenagem interativo**](https://github.com/wallacebrunospsouza/Declaracao_amor): projeto pessoal desenvolvido para expressar sentimentos de forma criativa e técnica. O site apresenta um layout responsivo, animações suaves com JavaScript. Um exemplo de como a tecnologia também pode ser usada para construir conexões humanas.
+
+### 🚀 Projeto em Destaque Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+- [**Reporsitório da Faculdade**](https://github.com/wallacebrunospsouza/Faculdade): projeto pessoal desenvolvido para expressar sentimentos de forma criativa e técnica. O site apresenta um layout responsivo, animações suaves com JavaScript. Um exemplo de como a tecnologia também pode ser usada para construir conexões humanas.
 
 ---
 
