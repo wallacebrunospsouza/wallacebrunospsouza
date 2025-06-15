@@ -18,7 +18,7 @@
 
 ### 💼 Sobre mim
 
-Sou um desenvolvedor em formação em **Sistemas de Informação**, com foco em construir soluções eficientes e bem estruturadas. Atuo principalmente com **Java no back-end** e tecnologias modernas de **front-end**, como HTML, CSS e JavaScript.
+Sou um desenvolvedor que está no processo de formação em **Sistemas de Informação**, com foco em construir soluções eficientes e bem estruturadas. Atuo principalmente com **Java no back-end** e tecnologias modernas de **front-end**, como HTML, CSS e JavaScript.
 
 Valorizo a clareza no código, boas práticas de versionamento e a construção de aplicações escaláveis. Tenho perfil autodidata, colaborativo e estou sempre em busca de evolução técnica e profissional.
 
