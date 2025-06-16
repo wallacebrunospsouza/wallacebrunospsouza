@@ -55,6 +55,14 @@ Valorizo a clareza no código, boas práticas de versionamento e a construção 
 
 ---
 
+### 🎓 Certificados & Cursos
+
+- [Curso Básico de Informática – Help Informática](#)  
+- [Técnico de Informática – Escola Técnica Industrial Professor Fontes](#)  
+- [Bacharelado em Sistemas de Informação – Instituto Federal de Minas Gerais (IFMG)](#)  
+
+---
+
 ### 🎯 Objetivos e Motivação
 
 - Criar soluções que unam **qualidade técnica** e **impacto positivo**.
