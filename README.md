@@ -20,8 +20,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![Wallace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallacebrunospsouza&show_icons=true&theme=tokyonight)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacebrunospsouza&layout=compact&theme=tokyonight)
 
