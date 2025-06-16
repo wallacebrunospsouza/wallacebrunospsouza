@@ -4,13 +4,26 @@
 
 ---
 
-### 🛠 Tecnologias que domino  
+### 🛠 Tecnologias que domino
+
 <div style="display: flex; gap: 6px;">
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Wallace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallacebrunospsouza&show_icons=true&theme=tokyonight)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacebrunospsouza&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -26,7 +39,8 @@ Valorizo a clareza no código, boas práticas de versionamento e a construção 
 
 ### 🚀 Projetos em Destaque
 
-#### 📌 Front-end  
+#### 📌 Front-end
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -34,7 +48,8 @@ Valorizo a clareza no código, boas práticas de versionamento e a construção 
 - [**Site de homenagem interativo**](https://github.com/wallacebrunospsouza/Declaracao_amor):  
   Um projeto pessoal feito com carinho para minha namorada. Layout responsivo, animações leves e estrutura clara. Demonstra minha atenção aos detalhes, criatividade e domínio de front-end.
 
-#### 📌 Java  
+#### 📌 Java
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 - [**Repositório de estudos (Faculdade)**](https://github.com/wallacebrunospsouza/Faculdade):  
@@ -51,4 +66,5 @@ Valorizo a clareza no código, boas práticas de versionamento e a construção 
 ---
 
 ### 🤝 Conecte-se comigo
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-bruno-santos-pereira-de-souza-a50957223)
