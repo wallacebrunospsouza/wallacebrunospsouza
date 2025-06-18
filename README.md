@@ -61,7 +61,7 @@ Valorizo a clareza no código, boas práticas de versionamento e a construção 
 
 - [Curso Básico de Informática – Help Informática](#)  
 - [Técnico de Informática – Escola Técnica Industrial Professor Fontes](#)  
-- [Bacharelado em Sistemas de Informação – Instituto Federal de Minas Gerais (IFMG)](#)  
+- [Bacharel em Sistemas de Informação – Instituto Federal de Minas Gerais (IFMG)](#)  
 
 ---
 
