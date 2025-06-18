@@ -77,5 +77,7 @@ Valorizo a clareza no código, boas práticas de versionamento e a construção 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-bruno-santos-pereira-de-souza-a50957223)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wallacebrunospsouza82@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@wallace26__bruno-purple?logo=instagram)](https://www.instagram.com/wallace26_bruno/)
+
 
 
