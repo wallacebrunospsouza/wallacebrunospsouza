@@ -1,6 +1,6 @@
 <h1 align="center">👋 Prazer, sou Wallace Bruno</h1>
 
-<p align="center"><b>Desenvolvedor Full Stack</b> | Foco em <b>Java</b> e Tecnologias <b>Front-end</b></p>
+<p align="center"><b>Desenvolvedor com foco em <b>Java</b> e Tecnologias <b>Front-end</b></p>
 
 ---
 
