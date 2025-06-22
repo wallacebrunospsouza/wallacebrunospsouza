@@ -46,7 +46,7 @@ Valorizo a clareza no código, boas práticas de versionamento e a construção 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 - [**Site de homenagem interativo**](https://github.com/wallacebrunospsouza/Declaracao_amor):  
-  Um projeto pessoal feito com carinho para minha namorada. Layout responsivo, animações leves e estrutura clara. Demonstra minha atenção aos detalhes, criatividade e domínio de front-end.
+  Um projeto pessoal feito com carinho. Layout responsivo, animações leves e estrutura clara. Demonstra minha atenção aos detalhes, criatividade e domínio de front-end.
 
 #### 📌 Java
 
